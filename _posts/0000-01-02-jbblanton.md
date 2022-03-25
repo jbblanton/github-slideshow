@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to the 2nd slide!"
 ---
-Here we are, learning how to connect VS Code with GitHub
+Have some fun with interactive learning.
 Use the left arrow to go back!
